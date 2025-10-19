@@ -9,7 +9,7 @@
 
 ### 👋 Hello there!
 
-I’m **T1k**, a **15-year-old self-taught programmer**, **furry protogen enthusiast**, and lifelong learner. :3
+I’m **T1k**, a **15-year-old self-taught programmer**, **furry protogen enthusiast**, and lifelong learner. :3 \n
 I dive deep into code, create things for fun
 
 ---
