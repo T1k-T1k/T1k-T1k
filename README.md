@@ -26,7 +26,7 @@ Here are some languages & tools I love working with:
   <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
   <a href="https://www.lua.org/" target="_blank"><img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" /></a>
-  <a href="https://www.json.org/" target="_blank"><img src="https://skillicons.dev/icons?i=json" width="48" height="48" alt="JSON" /></a>
+  <a href="https://www.json.org/" target="_blank"><img src="https://raw.githubusercontent.com/T1k-T1k/T1k-T1k/main/icons/json-file.svg"" width="48" height="48" alt="JSON" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" /></a>
@@ -41,8 +41,8 @@ Here are some languages & tools I love working with:
   <a href="https://yarnpkg.com/" target="_blank"><img src="https://skillicons.dev/icons?i=yarn" width="48" height="48" alt="Yarn" /></a>
   <a href="https://graphql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /></a>
   <a href="https://www.cloudflare.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /></a>
-  <a href="https://www.shellscript.sh/" target="_blank"><img src="https://skillicons.dev/icons?i=shell" width="48" height="48" alt="Shell" /></a>
-  <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank"><img src="https://raw.githubusercontent.com/T1k-T1k/T1k-T1k/refs/heads/main/icons/bat-file.svg" width="48" height="48" alt="Batch" /></a>
+  <a href="https://www.shellscript.sh/" target="_blank"><img src="https://raw.githubusercontent.com/T1k-T1k/T1k-T1k/main/icons/sh-file.svg"" width="48" height="48" alt="Shell" /></a>
+  <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank"><img src="https://raw.githubusercontent.com/T1k-T1k/T1k-T1k/main/icons/bat-file.svg" width="48" height="48" alt="Batch" /></a>
 </p>
 
 ### 📊 GitHub Stats
