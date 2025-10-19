@@ -45,7 +45,7 @@ Here are some languages & tools I love working with:
   <a href="https://graphql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /></a>
   <a href="https://www.cloudflare.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /></a>
   <a href="https://www.shellscript.sh/" target="_blank"><img src="https://skillicons.dev/icons?i=shell" width="48" height="48" alt="Shell" /></a>
-  <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank"><img src="https://img.icons8.com/?size=512&id=43786&format=png" width="48" height="48" alt="Batch" /></a>
+  <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank"><img src="https://raw.githubusercontent.com/T1k-T1k/T1k-T1k/refs/heads/main/icons/bat.svg" width="48" height="48" alt="Batch" /></a>
 </p>
 
 ### 📊 GitHub Stats
