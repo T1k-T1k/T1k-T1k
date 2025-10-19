@@ -14,13 +14,9 @@ I dive deep into code, create things for fun
 
 ---
 
-### 🛠️ Technologies & Languages
+### 🛠️ Technologies & Languages & Tools
 
 Here are some languages & tools I love working with:
-
-### 🛠️ Technologies & Tools
-
-### 🛠️ Technologies & Tools
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>
