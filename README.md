@@ -20,7 +20,7 @@ Here are some languages & tools I love working with:
 
 ### 🛠️ Technologies & Tools
 
-<p align="center">
+<p align="left">
   <!-- Programming Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
@@ -42,7 +42,7 @@ Here are some languages & tools I love working with:
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Web Development -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -61,7 +61,7 @@ Here are some languages & tools I love working with:
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Backend & Tools -->
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
