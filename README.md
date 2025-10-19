@@ -18,27 +18,63 @@ I dive deep into code, create things for fun
 
 Here are some languages & tools I love working with:
 
+### 🛠️ Technologies & Tools
+
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="Batch" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Luau-00AEEF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <!-- Programming Languages -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+  </a>
+  <a href="https://www.lua.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=43786&format=png" width="48" height="48" alt="Batch" />
+  </a>
+  <a href="https://www.json.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=json" width="48" height="48" alt="JSON" />
+  </a>
 </p>
 
 <p align="center">
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <!-- Web Development -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Backend & Tools -->
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  </a>
+  <a href="https://discord.js.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discordjs" width="48" height="48" alt="Discord.js" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  </a>
 </p>
 
 ### 📊 GitHub Stats
